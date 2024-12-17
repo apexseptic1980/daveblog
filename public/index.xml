@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal</title>
+    <link>/</link>
+    <description>Recent content on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Blog Pipeline</title>
+      <link>/posts/blog-pipeline/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/blog-pipeline/</guid>
+      <description>&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Combine%20the%20painting%20Starry%20Night%20and%20The%20Great%20Wave%20in%20the%20style%20of%20a%20circuit%20board%20with%20synthwave%20elements.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;One Go
+One No
+GIT!&lt;/p&gt;</description>
+      <content>&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Combine%20the%20painting%20Starry%20Night%20and%20The%20Great%20Wave%20in%20the%20style%20of%20a%20circuit%20board%20with%20synthwave%20elements.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;One Go
+One No
+GIT!&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
